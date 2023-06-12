@@ -1,0 +1,83 @@
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetBastya.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetFuto.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetHuszar.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetKiraly.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetKiralyno.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetParaszt.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosBastya.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosFuto.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosHuszar.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosKiraly.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosKiralyno.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosParaszt.png
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\WindowsFormChess.exe.config
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\WindowsFormChess.exe
+R:\WindowsFormChess\WindowsFormChess\bin\Debug\WindowsFormChess.pdb
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.SuggestedBindingRedirects.cache
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.ConnectionForm.resources
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.InGameForm.resources
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.MainMenu.resources
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.PromotionForm.resources
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.Properties.Resources.resources
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.ScoreHistoryForm.resources
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.exe
+R:\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.pdb
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetBastya.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetFuto.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetHuszar.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetKiraly.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetKiralyno.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\SotetParaszt.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosBastya.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosFuto.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosHuszar.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosKiraly.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosKiralyno.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\Kepek\VilagosParaszt.png
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\WindowsFormChess.exe.config
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\WindowsFormChess.exe
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\bin\Debug\WindowsFormChess.pdb
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.SuggestedBindingRedirects.cache
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.ConnectionForm.resources
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.InGameForm.resources
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.MainMenu.resources
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.PromotionForm.resources
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.Properties.Resources.resources
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.ScoreHistoryForm.resources
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.exe
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\WindowsFormChess.pdb
+C:\Users\doant\OneDrive - Trường ĐH CNTT - University of Information Technology\Máy tính\WindowsFormChess\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.Onlineconect.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.AssemblyReference.cache
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.SuggestedBindingRedirects.cache
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.ConnectionForm.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.InGameForm.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.MainMenu.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.Onlineconect.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.PromotionForm.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.Properties.Resources.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\DoAnLapTrinhMang.WindowsFormChess.ScoreHistoryForm.resources
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.GenerateResource.cache
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\WindowsFormChess.csproj.CoreCompileInputs.cache
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\WindowsFormChess.exe
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\obj\Debug\WindowsFormChess.pdb
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\SotetBastya.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\SotetFuto.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\SotetHuszar.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\SotetKiraly.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\SotetKiralyno.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\SotetParaszt.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\VilagosBastya.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\VilagosFuto.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\VilagosHuszar.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\VilagosKiraly.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\VilagosKiralyno.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\Kepek\VilagosParaszt.png
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\WindowsFormChess.exe.config
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\WindowsFormChess.exe
+C:\Users\doant\Downloads\WindowsFormChess123\WindowsFormChess\bin\Debug\WindowsFormChess.pdb
